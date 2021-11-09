@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T18:16:54.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YMyYdgy09F3c49CrFHco" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T18:27:00.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fOY_pzwt3UnCUgWL2ZCV" version="15.7.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1021" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -316,6 +316,9 @@
             <mxPoint x="260" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-36" target="zTomdQX7B3oOg1DRpIoz-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-36" value="Consulta valor do Frete pra Procedencia ( Time de Entregas" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="660" width="110" height="60" as="geometry" />
         </mxCell>
@@ -383,7 +386,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-52" value="Enviar dias disponíveis para Retorno da Devolução" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-52" value="Enviar datas disponíveis para Retorno da Devolução" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -395,7 +398,7 @@
         <mxCell id="zTomdQX7B3oOg1DRpIoz-54" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-57" value="Criação da DT &lt;br&gt;( Documento de Transportes)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-58" value="Enviado ao Financeiro para Encontro de Contas com alguma Fatura em aberto para desconto" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -413,9 +416,53 @@
             <mxPoint x="160" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-61" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-61" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1060" as="sourcePoint" />
+            <mxPoint x="270" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-1" value="Inserir todas as informações na Agenda" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1120" as="sourcePoint" />
+            <mxPoint x="170" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-3" value="Excel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1160" as="sourcePoint" />
+            <mxPoint x="270" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-5" value="Divulgação do agendamento para Transportadora e para o CD/ Fiscal" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1220" as="sourcePoint" />
+            <mxPoint x="160" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_0m4g-BoMBMMd5jmmKL-7" value="Excel&lt;br&gt;E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hK4aD_4AC5RnIuT259Tm" name="Page-2">
+    <mxGraphModel dx="868" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yK84hBLelQhDYD4oXHYH-0" />
+        <mxCell id="yK84hBLelQhDYD4oXHYH-1" parent="yK84hBLelQhDYD4oXHYH-0" />
       </root>
     </mxGraphModel>
   </diagram>

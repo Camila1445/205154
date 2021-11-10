@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T11:48:28.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="eiRhgJucqoe9HAv8pv9_" version="15.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-10T11:56:35.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="qKQfVIpiaseg9CxVLaCy" version="15.7.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Visão 1">
     <mxGraphModel dx="1695" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1012,8 +1012,8 @@
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-91" value="Divulgar o agendamento para Transportadora e para o CD/ Fiscal" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
           <mxGeometry x="88" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-92" value="Excel&lt;br&gt;E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
-          <mxGeometry x="-70" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-92" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="-80" y="1290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-93" value="Processo Finalizado" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
           <mxGeometry x="530" y="1190" width="120" height="80" as="geometry" />
@@ -1059,8 +1059,8 @@
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="1280" as="sourcePoint" />
-            <mxPoint x="80" y="1280" as="targetPoint" />
+            <mxPoint x="40" y="1310" as="sourcePoint" />
+            <mxPoint x="80" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-103" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
@@ -1167,6 +1167,15 @@
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-125" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
           <mxGeometry x="246.5" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="biEW7Qw1uSCovD3qtkmj-0" value="Excel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="-85" y="1220" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="biEW7Qw1uSCovD3qtkmj-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="1250" as="sourcePoint" />
+            <mxPoint x="78" y="1270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

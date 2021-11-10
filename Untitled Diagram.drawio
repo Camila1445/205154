@@ -1,71 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T13:11:05.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nTp2C4RSax9OB8E2nILw" version="15.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-10T14:09:16.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="k2cld-NfcqvFADFTEHLz" version="15.7.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Visão 1">
     <mxGraphModel dx="1695" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="loBwQ56x5LxqGYdifCyA-49" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="327.5" width="110" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-50" value="Planilha de Excel enviada pelo Transportador" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="327.5" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-52" value="Solicitação do Agendamento ou autorização de Permuta" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="327.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="349" as="sourcePoint" />
-            <mxPoint x="370" y="349" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-54" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520.25" y="350" as="sourcePoint" />
-            <mxPoint x="480.25" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="408" as="sourcePoint" />
-            <mxPoint x="429.75" y="427.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430.12" y="427.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="loBwQ56x5LxqGYdifCyA-57" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#999999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="430" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="138.5" y="430" as="sourcePoint" />
-            <mxPoint x="138" y="479.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-59" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="430" as="sourcePoint" />
-            <mxPoint x="364" y="429.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="364" y="429.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-60" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="468" y="430" as="sourcePoint" />
-            <mxPoint x="590" y="430" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="412.57" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="loBwQ56x5LxqGYdifCyA-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="589.5" y="430" as="sourcePoint" />
             <mxPoint x="589.5" y="460" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="loBwQ56x5LxqGYdifCyA-62" value="Agendamento da Devolução" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="78" y="480" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="loBwQ56x5LxqGYdifCyA-63" value="Autorizado Permuta ao Transportador" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="470" width="120" height="80" as="geometry" />
@@ -220,26 +166,8 @@
         <mxCell id="loBwQ56x5LxqGYdifCyA-96" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370.07" y="1060" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cobrança a Transportadora&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="10" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="492.57" y="39.5" as="sourcePoint" />
-            <mxPoint x="522.57" y="39.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="50" as="sourcePoint" />
-            <mxPoint x="360" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Bse PF (Rede)&lt;br&gt;Ocorrencia&amp;nbsp;&lt;br&gt;Addtax&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-9" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Monitoramento das devoluções pendentes&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -247,13 +175,13 @@
             <mxPoint x="429.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Enviar a Base da cobrança para Transportadora&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Enviar a Base da cobrança&amp;nbsp; + planilha padrão ao Transportador&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="372.57" y="110" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="290" as="sourcePoint" />
-            <mxPoint x="430" y="320" as="targetPoint" />
+            <mxPoint x="432.07" y="280" as="sourcePoint" />
+            <mxPoint x="432" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -301,119 +229,102 @@
         <mxCell id="zTomdQX7B3oOg1DRpIoz-32" value="E-mail&lt;br&gt;Telefone" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="loBwQ56x5LxqGYdifCyA-62" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="108" y="610" as="sourcePoint" />
-            <mxPoint x="138" y="580" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-34" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Verificar o preenchimento da planilha padrão&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="440" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-34" value="Transportador envia Planilha com as Notas" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="88" y="585" width="100" height="45" as="geometry" />
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-36" value="Validar a procedência da cobrança do custo" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-376" y="743" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="118" y="680" as="sourcePoint" />
-            <mxPoint x="138" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A_0m4g-BoMBMMd5jmmKL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="138" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-36" value="Consultar valor do Frete pra Procedência ( Time de Entregas" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="78" y="660" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zTomdQX7B3oOg1DRpIoz-38" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-85" y="580" width="120" height="50" as="geometry" />
+        <mxCell id="zTomdQX7B3oOg1DRpIoz-38" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;e-mail &lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Excel&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-90" y="450" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-40" value="OTM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-80" y="660" width="110" height="50" as="geometry" />
+          <mxGeometry x="-536" y="753" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="132.40999999999997" y="725" as="sourcePoint" />
-            <mxPoint x="132.40999999999997" y="745" as="targetPoint" />
+            <mxPoint x="-321.59000000000003" y="818" as="sourcePoint" />
+            <mxPoint x="-321.59000000000003" y="838" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="132.40999999999997" y="745" />
+              <mxPoint x="-321.59000000000003" y="838" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-43" value="Lançar Ordem e Remessa" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="88" y="740" width="100" height="50" as="geometry" />
+          <mxGeometry x="-366" y="994" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-45" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-70" y="740" width="90" height="50" as="geometry" />
+          <mxGeometry x="-524" y="994" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-47" value="Enviar ao Time de Compras Fretes para Validação dos Valores" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="817.5" width="110" height="62.5" as="geometry" />
+          <mxGeometry x="-371" y="1071.5" width="110" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-50" value="Email" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-70" y="817.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="-524" y="1071.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.50000000000003" y="885" as="sourcePoint" />
-            <mxPoint x="137.50000000000003" y="915" as="targetPoint" />
+            <mxPoint x="-316.5" y="1139" as="sourcePoint" />
+            <mxPoint x="-316.5" y="1169" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-52" value="Enviar datas disponíveis para Retorno da Devolução" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="1034" width="120" height="60" as="geometry" />
+          <mxGeometry x="-371" y="1288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1064" as="sourcePoint" />
-            <mxPoint x="80" y="1064" as="targetPoint" />
+            <mxPoint x="-414" y="1318" as="sourcePoint" />
+            <mxPoint x="-374" y="1318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-54" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-82" y="1034" width="120" height="60" as="geometry" />
+          <mxGeometry x="-536" y="1288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-57" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Criar&amp;nbsp; DT &lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;(Documento de Transportes)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="1144" width="120" height="70" as="geometry" />
+          <mxGeometry x="-371" y="1398" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-58" value="Enviar ao Financeiro para Encontro de Contas com alguma Fatura em aberto para desconto" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="1060" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-60" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1184" as="sourcePoint" />
-            <mxPoint x="70" y="1184" as="targetPoint" />
+            <mxPoint x="-414" y="1438" as="sourcePoint" />
+            <mxPoint x="-384" y="1438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zTomdQX7B3oOg1DRpIoz-61" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-82" y="1153" width="120" height="65" as="geometry" />
+          <mxGeometry x="-536" y="1407" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.5" y="1218" as="sourcePoint" />
-            <mxPoint x="137.5" y="1248" as="targetPoint" />
+            <mxPoint x="-316.5" y="1472" as="sourcePoint" />
+            <mxPoint x="-316.5" y="1502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-1" value="Inserir todas as informações na Agenda" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="83" y="1255" width="120" height="66" as="geometry" />
+          <mxGeometry x="-371" y="1509" width="120" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="48" y="1291" as="sourcePoint" />
-            <mxPoint x="80" y="1291" as="targetPoint" />
+            <mxPoint x="-406" y="1545" as="sourcePoint" />
+            <mxPoint x="-374" y="1545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-3" value="Excel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-80" y="1255" width="120" height="60" as="geometry" />
+          <mxGeometry x="-534" y="1509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="147.5" y="1327" as="sourcePoint" />
-            <mxPoint x="147.5" y="1357" as="targetPoint" />
+            <mxPoint x="-306.5" y="1581" as="sourcePoint" />
+            <mxPoint x="-306.5" y="1611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-5" value="Divulgar o agendamento para Transportadora e para o CD/ Fiscal" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-364" y="1624" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_0m4g-BoMBMMd5jmmKL-7" value="Excel&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-80" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-534" y="1604" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxdHZQZyJXA-zpsNMdDn-0" value="Processo Finalizado" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="1190" width="120" height="80" as="geometry" />
@@ -422,106 +333,100 @@
           <mxGeometry x="550" y="1320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxdHZQZyJXA-zpsNMdDn-2" value="Acompanhar a entrada da mercadoria na empresa na data do agendamento" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="1477" width="140" height="80" as="geometry" />
+          <mxGeometry x="-374" y="1731" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxdHZQZyJXA-zpsNMdDn-3" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="108" y="1600" width="80" height="80" as="geometry" />
+          <mxGeometry x="-346" y="1854" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-0" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="33" y="610" as="sourcePoint" />
-            <mxPoint x="83" y="610" as="targetPoint" />
+            <mxPoint x="30" y="470" as="sourcePoint" />
+            <mxPoint x="80" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="690" as="sourcePoint" />
-            <mxPoint x="70" y="690" as="targetPoint" />
+            <mxPoint x="-424" y="783" as="sourcePoint" />
+            <mxPoint x="-384" y="783" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="23" y="765" as="sourcePoint" />
-            <mxPoint x="73" y="765" as="targetPoint" />
+            <mxPoint x="-431" y="1019" as="sourcePoint" />
+            <mxPoint x="-381" y="1019" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="850" as="sourcePoint" />
-            <mxPoint x="80" y="850" as="targetPoint" />
+            <mxPoint x="-424" y="1104" as="sourcePoint" />
+            <mxPoint x="-374" y="1104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.5" y="1094" as="sourcePoint" />
-            <mxPoint x="137.5" y="1134" as="targetPoint" />
+            <mxPoint x="-316.5" y="1348" as="sourcePoint" />
+            <mxPoint x="-316.5" y="1388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A_0m4g-BoMBMMd5jmmKL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="53" y="1379.5" as="sourcePoint" />
-            <mxPoint x="80" y="1390" as="targetPoint" />
+            <mxPoint x="-401" y="1633.5" as="sourcePoint" />
+            <mxPoint x="-374" y="1644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fqUKKA3oDx3CT4fsKbs2-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="149.5" y="1440" as="sourcePoint" />
-            <mxPoint x="149.5" y="1480" as="targetPoint" />
+            <mxPoint x="-304.5" y="1694" as="sourcePoint" />
+            <mxPoint x="-304.5" y="1734" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fqUKKA3oDx3CT4fsKbs2-8" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="541" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W0SVA4Cd5NTacgUkBOQ9-0" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="116" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W0SVA4Cd5NTacgUkBOQ9-1" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="541" y="12" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="610" as="sourcePoint" />
-            <mxPoint x="200" y="610" as="targetPoint" />
+            <mxPoint x="223" y="469.5" as="sourcePoint" />
+            <mxPoint x="193" y="469.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5mhPIPQgXPkxBUWicjZ-2" value="&lt;span&gt;Transportador&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="588" width="100" height="60" as="geometry" />
+        <mxCell id="F5mhPIPQgXPkxBUWicjZ-2" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="225" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="690" as="sourcePoint" />
-            <mxPoint x="190" y="690" as="targetPoint" />
+            <mxPoint x="-234" y="783" as="sourcePoint" />
+            <mxPoint x="-264" y="783" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-4" value="Equipe Entregas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225" y="670" width="105" height="50" as="geometry" />
+          <mxGeometry x="-226.5" y="753" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="760" as="sourcePoint" />
-            <mxPoint x="190" y="760" as="targetPoint" />
+            <mxPoint x="-234" y="1014" as="sourcePoint" />
+            <mxPoint x="-264" y="1014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5mhPIPQgXPkxBUWicjZ-6" value="&lt;span&gt;Analista Logistica Reversa&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="740" width="110" height="50" as="geometry" />
+        <mxCell id="F5mhPIPQgXPkxBUWicjZ-6" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-234" y="994" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="850" as="sourcePoint" />
-            <mxPoint x="200" y="850" as="targetPoint" />
+            <mxPoint x="-224" y="1104" as="sourcePoint" />
+            <mxPoint x="-254" y="1104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-10" value="Equipe Compras Fretes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="820" width="100" height="60" as="geometry" />
+          <mxGeometry x="-224" y="1074" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="238" y="1057" as="sourcePoint" />
-            <mxPoint x="208" y="1057" as="targetPoint" />
+            <mxPoint x="-216" y="1311" as="sourcePoint" />
+            <mxPoint x="-246" y="1311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-12" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="1034" width="110" height="60" as="geometry" />
+          <mxGeometry x="-214" y="1288" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -537,75 +442,122 @@
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="149.5" y="1560" as="sourcePoint" />
-            <mxPoint x="149.5" y="1600" as="targetPoint" />
+            <mxPoint x="-304.5" y="1814" as="sourcePoint" />
+            <mxPoint x="-304.5" y="1854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="1184" as="sourcePoint" />
-            <mxPoint x="210" y="1184" as="targetPoint" />
+            <mxPoint x="-214" y="1438" as="sourcePoint" />
+            <mxPoint x="-244" y="1438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-17" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Analista Logistica Reversa&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="1144" width="100" height="70" as="geometry" />
+          <mxGeometry x="-214" y="1398" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="1291" as="sourcePoint" />
-            <mxPoint x="210" y="1291" as="targetPoint" />
+            <mxPoint x="-214" y="1545" as="sourcePoint" />
+            <mxPoint x="-244" y="1545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-19" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="253" y="1258" width="107" height="66" as="geometry" />
+          <mxGeometry x="-201" y="1512" width="107" height="66" as="geometry" />
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255.07" y="1387.5" as="sourcePoint" />
-            <mxPoint x="215.07" y="1387.5" as="targetPoint" />
+            <mxPoint x="-198.93" y="1641.5" as="sourcePoint" />
+            <mxPoint x="-238.93" y="1641.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F5mhPIPQgXPkxBUWicjZ-21" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="255.07" y="1359" width="120" height="58" as="geometry" />
+          <mxGeometry x="-201" y="1613" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-3" value="Retornar a Equipe de Entregas para Efetivação do Custo" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="78" y="920" width="120" height="70" as="geometry" />
+          <mxGeometry x="-376" y="1174" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="950" as="sourcePoint" />
-            <mxPoint x="200" y="950" as="targetPoint" />
+            <mxPoint x="-224" y="1204" as="sourcePoint" />
+            <mxPoint x="-254" y="1204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-5" value="&lt;span&gt;Equipe Entregas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="235" y="920" width="110" height="60" as="geometry" />
+          <mxGeometry x="-219" y="1174" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-6" value="Email" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-90" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="-544" y="1174" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="950" as="sourcePoint" />
-            <mxPoint x="70" y="950" as="targetPoint" />
+            <mxPoint x="-424" y="1204" as="sourcePoint" />
+            <mxPoint x="-384" y="1204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2N2khV9RX_T6Iu8u1C6F-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2N2khV9RX_T6Iu8u1C6F-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1040" as="sourcePoint" />
-            <mxPoint x="138" y="1030" as="targetPoint" />
+            <mxPoint x="-344" y="1294" as="sourcePoint" />
+            <mxPoint x="-316" y="1284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hmEY8HrEU83rC9oDYeXf-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Retrabalho&lt;/font&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;dashed=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="910" width="140" height="80" as="geometry" />
+          <mxGeometry x="-740" y="1000" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cKMaK2Yp1y3adbSMtp8a-0" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-80" y="1417" width="120" height="60" as="geometry" />
+          <mxGeometry x="-534" y="1671" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKMaK2Yp1y3adbSMtp8a-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="1440" as="sourcePoint" />
-            <mxPoint x="80" y="1410" as="targetPoint" />
+            <mxPoint x="-404" y="1694" as="sourcePoint" />
+            <mxPoint x="-374" y="1664" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Planilha Padrão retornada pelo Transportadora&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Planilha Padrão&amp;nbsp; sem o retorno&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485.13" y="340" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-4" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;% 3CmxGraphModel% 3E% 3Croot% 3E% 3CmxCell% 20id% 3D% 220% 22% 2F% 3E% 3CmxCell% 20id% 3D% 221% 22% 20parent% 3D% 220% 22% 2F% 3E% 3CmxCell% 20id% 3D % 222% 22% 20value% 3D% 22% 22% 20style% 3D% 22shape% 3DsumEllipse% 3Bperimeter% 3DellipsePerimeter% 3BwhiteSpace% 3Dwrap% 3Bhtml% 3D1% 3BbackgroundOutline% 3D1% 3BstrokeColor% 3DsumEllipse% 23999999% 3B% 22% 20vertex% 3D % 221% 22% 20parent% 3D% 221% 22% 3E% 3CmxGeometry% 20x% 3D% 22412,57% 22% 20y% 3D% 22300% 22% 20width% 3D% 2240% 22% 20height% 3D% 2240% 22% 20as % 3D% 22geometria% 22% 2F% 3E% 3C% 2FmxCell% 3E% 3C% 2Froot% 3E% 3C% 2FmxGraphModel% 3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-5" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#999999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="535" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zTomdQX7B3oOg1DRpIoz-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="560" as="sourcePoint" />
+            <mxPoint x="140" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Preenchimento OK&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-376" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Preenchimento NOK&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="567.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Solicitar uma correção das informações&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-12" value="&lt;span&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Analista Logistica Reversa&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="680" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-15" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;E-mail&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-16" value="Encaminhar e-mail para time de entregar validar procedência do custo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-374" y="640" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YGiMcJhPj2lTXsORXAXZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-174" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-17" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;Equipe Entregas&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-229" y="650" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YGiMcJhPj2lTXsORXAXZ-19" value="e-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-524" y="647.5" width="110" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -954,7 +906,7 @@
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-75" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="-70" y="740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Wak898rco3ixTBoAzNHN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1" source="LYyk9Dx0ZVhr3AgMFDWi-76">
+        <mxCell id="Wak898rco3ixTBoAzNHN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" source="LYyk9Dx0ZVhr3AgMFDWi-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="138" y="820" as="targetPoint" />
           </mxGeometry>

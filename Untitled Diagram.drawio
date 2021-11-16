@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T13:36:06.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="U9gKanPXwG7OpDKO_UM9" version="15.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:40:00.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="np-BtXZgnIrAw9kTWmz3" version="15.7.4" type="github" pages="2">
   <diagram name=" Visão 2" id="1wXLa7j6M4l5O0fMWjpv">
     <mxGraphModel dx="1695" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
           <mxGeometry x="370.07" y="1060" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-48" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Monitoramento do retorno das devoluções&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
-          <mxGeometry x="370" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

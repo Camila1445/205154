@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T13:23:49.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wPCkPJBjIKmB4BRSjIj5" version="15.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:32:44.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2bSe00P614GQ76_J92uI" version="15.7.4" type="github" pages="2">
   <diagram name=" Visão 2" id="1wXLa7j6M4l5O0fMWjpv">
     <mxGraphModel dx="1695" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,31 +97,13 @@
             <mxPoint x="520" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-21" value="Analista Logistica Reversa" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
-          <mxGeometry x="711" y="485" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="510" as="sourcePoint" />
-            <mxPoint x="660" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-23" value="E-mail com autorização" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
-          <mxGeometry x="380" y="480" width="105.13" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="510" as="sourcePoint" />
-            <mxPoint x="520" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="670" as="sourcePoint" />
             <mxPoint x="590" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-26" value="Colocar E-mail com autorização de Permuta na Pasta da Rede" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;dashed=1;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-26" value="Salvar E-mail com autorização de Permuta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;dashed=1;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="530" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
@@ -140,7 +122,7 @@
           <mxGeometry x="711" y="710" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-30" value="Rede" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
-          <mxGeometry x="375.07" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="390" y="705" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -163,7 +145,7 @@
             <mxPoint x="660" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-35" value="Analista Fiscal" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-35" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Analista Logistica Reversa&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="713" y="835" width="97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-36" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
@@ -220,7 +202,7 @@
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-47" value="SAP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="370.07" y="1060" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-48" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cobrança a Transportadora&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-48" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Monitoramento do retorno das devoluções&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="370" y="10" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
@@ -355,7 +337,7 @@
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-82" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Criar&amp;nbsp; DT &lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;(Documento de Transportes)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="83" y="1138" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-83" value="Enviar ao Financeiro para Encontro de Contas com alguma Fatura em aberto para desconto" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-83" value="Realizar Encontro de Contas com alguma Fatura em aberto para desconto" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="530" y="1060" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" edge="1">
@@ -397,7 +379,7 @@
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-92" value="E-mail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="-80" y="1590" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-93" value="Processo Finalizado" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
+        <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-93" value="Permuta Realizada" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="530" y="1190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LYyk9Dx0ZVhr3AgMFDWi-94" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">

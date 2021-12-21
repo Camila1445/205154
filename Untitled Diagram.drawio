@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T12:15:44.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rpp9I-UDEKLtwv_adhxj" version="15.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-21T19:31:17.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h8m38mB1mrZTB9XDIxmo" version="15.9.6" type="github" pages="2">
   <diagram name="Cenario Atual" id="1wXLa7j6M4l5O0fMWjpv">
     <mxGraphModel dx="868" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,6 +226,27 @@
         </mxCell>
         <mxCell id="blbZEJMpm541hF0UHcoM-49" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Envio da Planilha Padrão com agendamento das notas pendentes&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LYyk9Dx0ZVhr3AgMFDWi-1" vertex="1">
           <mxGeometry x="470" y="940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-0" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="290" y="50" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="292.57" y="170" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="302.57" y="277.5" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="302.57" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="296.5" y="500" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-5" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="292.57" y="620" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwXQQje6cu3VcvbWkQ1t-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="LYyk9Dx0ZVhr3AgMFDWi-1">
+          <mxGeometry x="296.5" y="748.75" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
